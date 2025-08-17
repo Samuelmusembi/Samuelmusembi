@@ -1,4 +1,4 @@
-- I'm Abel Masila!, a passionate Full Stack Web Developer 🚀 from Kenya.
+- I'm Samuel Musembi!, a passionate Full Stack Web Developer 🚀 from Kenya.
 
 GIF
 
