@@ -2,7 +2,7 @@
 
 GIF
 
-Talking about Personal Stuffs:
+- Talking about Personal Stuffs:
 
 👨🏽‍💻 I’m currently working on cool apps using React and Typescript
 🌱 I’m currently learning Swift;
