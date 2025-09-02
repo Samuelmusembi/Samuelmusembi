@@ -1,7 +1,5 @@
 - I'm Samuel Musembi!, a passionate Full Stack Web Developer 🚀 from Kenya.
-
-GIF
-
+  
 - Talking about Personal Stuffs:
 
 👨🏽‍💻 I’m currently working on cool apps using React and Typescript
