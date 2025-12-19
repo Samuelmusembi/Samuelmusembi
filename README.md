@@ -3,7 +3,7 @@
 - Talking about Personal Stuffs:
 
 👨🏽‍💻 I’m currently working on cool apps using React and Typescript
-🌱 I’m currently learning Swift;
+🌱 I’m currently learning jac/jeseci;
 💬 Ask me about anything, I am happy to help ;
 📫 How to reach me: @icon_samuel1 on X;
   MAIL @musembisamuel527@gmail.com
