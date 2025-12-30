@@ -1,4 +1,4 @@
-- I'm Samuel Musembi!, a passionate Full Stack Web Developer 🚀 from Kenya.  
+- I'm Samuel Musembi!, a passionate full Stack Web Developer 🚀 from Kenya.  
 
 - Talking about Personal Stuffs:
 
